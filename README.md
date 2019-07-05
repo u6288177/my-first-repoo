@@ -1,2 +1,3 @@
-# My First Repositpry
+# My First Repository
 
+Thipwarin Chotchawa
